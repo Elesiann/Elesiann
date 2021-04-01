@@ -9,6 +9,6 @@ Graduando em Ciências da Computação, estudante e entusiasta da programação 
 -  ⚡ Fun fact: Eu amo Lupin III.
 
 
-<img src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" width="30px"/>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elesiann)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src ="https://media.tenor.com/images/e7c39013e60d11ea756f8f387fbc6c9b/tenor.gif" width="100px"/>
