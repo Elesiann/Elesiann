@@ -11,4 +11,4 @@ Graduando em Ciências da Computação, estudante e entusiasta da programação 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elesiann)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src ="https://media.tenor.com/images/e7c39013e60d11ea756f8f387fbc6c9b/tenor.gif" width="100px"/>
+<img src ="https://64.media.tumblr.com/c4ef94149d9899f67f3f88cc7da24e3c/5583a2a22b6cba95-65/s400x600/18a67ccd9c9068668a44209cb479c8aea61d3cc3.gifv" width="200px"/>
