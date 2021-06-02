@@ -12,5 +12,4 @@ Graduating in Computer Science, student and lover of programming with focus on f
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elesiann)](https://github.com/anuraghazra/github-readme-stats)
 
-- 😆 Fun Fact: I Love Lupin III.
-<img src ="https://64.media.tumblr.com/c4ef94149d9899f67f3f88cc7da24e3c/5583a2a22b6cba95-65/s400x600/18a67ccd9c9068668a44209cb479c8aea61d3cc3.gifv" width="200px"/>
+<img src ="https://images.squarespace-cdn.com/content/v1/5b0753327e3c3a99d57f660e/1546036363406-SRNUE43LF01JUWMA2A75/ke17ZwdGBToddI8pDm48kCdD9v2NVSGvvJo5IxmSEo9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI1G0ZeKuPxPvEqt1obVxr2NXtkTyh2VQc7FE0x9Ec1zs/image-asset.gif" width="400px"/>
