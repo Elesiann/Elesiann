@@ -24,9 +24,14 @@
   
 My name is Giovani Machado, a passionate self-taught Front-End web-developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="30px"/>. 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elesiann&show_icons=true&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elesiann&show_icons=true&theme=tokyonight)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elesiann&exclude_repo=projeto-rh)
 
-
+NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages i have the most code on GitHub. It's a new feature of github-readme-stats.
+  
+<br/>
+<br/>
 
 📫 Contact me!  giovanimcorrea18@gmail.com
 
