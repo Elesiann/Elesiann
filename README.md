@@ -21,14 +21,18 @@
 )
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
 )
+ 
+My name is Giovani Machado, a passionate self-taught Front-End web-developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="30px"/>.
   
-My name is Giovani Machado, a passionate self-taught Front-End web-developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" width="30px"/>. 
+<g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji>  I’m currently learning JavaScript, TypeScript and React <br/>
+    
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elesiann&show_icons=true&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Elesiann&show_icons=true&theme=tokyonight" style="max-width:100%;">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elesiann&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elesiann&exclude_repo=projeto-rh&layout=compact&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elesiann&exclude_repo=projeto-rh&layout=compact&theme=tokyonight" style="max-width:100%;">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elesiann&exclude_repo=projeto-rh)
-
-NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages i have the most code on GitHub. It's a new feature of github-readme-stats.
+<div align="left">
+  NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages i have the most code on GitHub. It's a new feature of github-   readme-stats.
+</div>
   
 <br/>
 <br/>
