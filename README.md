@@ -28,6 +28,4 @@ My name is Giovani Machado, a passionate self-taught Front-End web-developer fro
 <br/>
 
 📫 Contact me!  giovanimcorrea18@gmail.com
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jiovanes&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 </div>
