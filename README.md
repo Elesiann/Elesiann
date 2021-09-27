@@ -29,5 +29,5 @@ My name is Giovani Machado, a passionate self-taught Front-End web-developer fro
 
 📫 Contact me!  giovanimcorrea18@gmail.com
 
-  <img src ="https://images.squarespace-cdn.com/content/v1/5b0753327e3c3a99d57f660e/1546036363406-SRNUE43LF01JUWMA2A75/ke17ZwdGBToddI8pDm48kCdD9v2NVSGvvJo5IxmSEo9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI1G0ZeKuPxPvEqt1obVxr2NXtkTyh2VQc7FE0x9Ec1zs/image-asset.gif" width="200px"/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jiovanes&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 </div>
