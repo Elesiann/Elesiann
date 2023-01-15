@@ -29,5 +29,5 @@ Web developer with 2 years of experience and programming enthusiast in general. 
 <br/>
 <br/>
 
-📫 Contact me!  giovanimcorrea18@gmail.com
+📫 Contact me!  giovanicorrea.dev@gmail.com
 </div>
