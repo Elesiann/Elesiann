@@ -18,10 +18,6 @@ Web developer with 2 years of experience and programming enthusiast in general. 
   
 <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji>  I’m currently learning JavaScript, TypeScript and React <br/>
   
-<div align="left">
-  NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages i have the most code on GitHub. It's a new feature of github-   readme-stats.
-</div>
-  
 <br/>
 <br/>
 
