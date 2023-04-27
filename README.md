@@ -16,7 +16,7 @@ My name is Giovani Machado, a passionate self-taught Front-End web-developer fro
  
 Web developer with 2 years of experience and programming enthusiast in general. I am a dedicated, methodical and organized person and I am always looking to optimize my techniques and achieve excellence, delivering the best of myself.
   
-<g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji>  I’m currently learning JavaScript, TypeScript and React <br/>
+<g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji>  I’m currently working with JavaScript, TypeScript and React <br/>
   
 <br/>
 <br/>
