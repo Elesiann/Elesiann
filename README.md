@@ -16,7 +16,7 @@
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
  
  
-My name is Giovani Machado, a passionate Front-End developer specialized in React ecossystem
+My name is Giovani Machado, a passionate Front-End developer specialized in React ecossystem <br/> 
 Web developer with 2 years of experience in Javascript and React, and programming enthusiast in general. I've made projects with React Native and worked professionally with all kinds of technologies from the React ecossystem, such as: Class and Functional components, Redux and Redux-saga, React Router and NextJS
 
  <br/>
