@@ -17,7 +17,7 @@
  
  
 My name is Giovani Machado, a passionate Front-End developer specialized in React ecossystem <br/> 
-Web developer with 2 years of experience in Javascript and React, and programming enthusiast in general. I've made projects with React Native and worked professionally with all kinds of technologies from the React ecossystem, such as: Class and Functional components, Redux and Redux-saga, React Router and NextJS
+Web developer with 3 years of experience in Javascript and React, and programming enthusiast in general. I've made projects with React Native and worked professionally with all kinds of technologies from the React ecossystem, such as: Class and Functional components, Redux and Redux-saga, React Router and NextJS
 
  <br/>
 I am a dedicated, methodical and organized person and I am always looking to optimize my techniques and achieve excellence, delivering the best of myself.
