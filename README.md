@@ -23,10 +23,8 @@ My name is Giovani Machado, a passionate Front-End developer specialized in Reac
 I've made projects with React Native and worked professionally with all kinds of technologies from the Javascript ecossystem
 <br/>
 
-I am a dedicated, methodical and organized person and I am always looking to optimize my techniques and achieve excellence, delivering the best of myself.
+I am a dedicated, methodical and organized person and I am always looking to optimize my techniques and achieve excellence, delivering the best of myself!
   
 <br/>
-<br/>
-
-📫 giovanicorrea.dev@gmail.com
+ Reach me out! 📫 giovanicorrea.dev@gmail.com
 </div>
